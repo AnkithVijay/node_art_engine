@@ -1,0 +1,39 @@
+{
+  "name": "Fantom Bulls #1",
+  "description": "1000 randomly generate Fantom Bulls",
+  "image": "ipfs://QmPzf9Poo648N9EW4GDui9SLJCXuVYwhmCUBGcnpKqjXA5/1.png",
+  "dna": "bf1ea3a6beedc56c89c23a332b04a2a3ec297fb9",
+  "edition": 1,
+  "date": 1649998022321,
+  "attributes": [
+    {
+      "trait_type": "BG",
+      "value": "BG9"
+    },
+    {
+      "trait_type": "Triangle",
+      "value": "Triangle (95E1D3)"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Face (White & Cream)"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes Black"
+    },
+    {
+      "trait_type": "Horns",
+      "value": "Horn 1 (White)"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Hair 3 (Brown)"
+    },
+    {
+      "trait_type": "Nose Ring",
+      "value": "Black"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
